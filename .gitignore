@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine Simulator with Java/task/build/
+/Coffee Machine Simulator with Java/task/out/
+/Coffee Machine Simulator with Java/task/out/production/classes/
+/Topics/Defining classes/Creating a book class and displaying book details/out/
+/Topics/Defining classes/Creating a book class and displaying book details/out/production/classes/
+/Topics/Functional decomposition/Method createFullName/out/
+/Topics/Functional decomposition/Method createFullName/out/production/classes/
+/Topics/Method  main/Calculating factorial of a given number/out/
+/Topics/Method  main/Calculating factorial of a given number/out/production/classes/
+/Topics/Method  main/Count the number of characters in a given string/out/
+/Topics/Method  main/Count the number of characters in a given string/out/production/classes/
+/Topics/Multiple conditions  switch/Direction/out/
+/Topics/Multiple conditions  switch/Direction/out/production/classes/
+/Topics/Primitive and reference types/Determine the type of the input number/out/
+/Topics/Primitive and reference types/Determine the type of the input number/out/production/classes/
+/Topics/While and do-while loops/The largest element of a sequence/out/
+/Topics/While and do-while loops/The largest element of a sequence/out/production/classes/
+/Topics/While and do-while loops/The length of the sequence/out/
+/Topics/While and do-while loops/The length of the sequence/out/production/classes/
+/Topics/While and do-while loops/The sum of elements/out/
+/Topics/While and do-while loops/The sum of elements/out/production/classes/
